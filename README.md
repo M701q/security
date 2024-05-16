@@ -1,6 +1,6 @@
 It’s hard to go a few days of scanning the news without hearing about a major data breach, potentially exposing millions of customers’ personal data to criminals. Here are a few tips to ensure your personal information doesn’t end up in the wrong hands.
  
-Create strong passwords
+
 When creating a password, think beyond words or numbers that a cybercriminal could easily figure out, like your birthday. Choose combinations of lower and upper-case letters, numbers, and symbols and change them periodically. It’s also better to create a unique password instead of using the same password across multiple sites—a password manager tool can help you keep track.
  
 Don't overshare on social media
